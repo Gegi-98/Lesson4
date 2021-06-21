@@ -1,0 +1,28 @@
+.logo {
+	margin: 30px 0 0 30px;
+	display: inline-block;
+	vertical-align: top;
+}
+.listdiv {
+	display: inline-block;
+	margin-left: 49.8px;
+}
+.list {
+	margin: 30.8px 18px 0 0;
+	display: inline-block;
+	vertical-align: top;
+	font-size: 22px;
+}
+.listcolor {
+	color: #3D58A6
+}
+.active {
+	color: #EE4036;
+}
+.banner {
+	margin: 76.9px 0 0 15%;
+}
+.title-box {
+	font-size: 24px;
+	margin: 117.6px 0 0 15%;
+}
