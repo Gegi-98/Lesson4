@@ -26,3 +26,56 @@
 	font-size: 24px;
 	margin: 117.6px 0 0 15%;
 }
+.boxes {
+	margin: 0 auto;
+}
+.box1 {
+	background-color: #F2F2F2;
+	width: 570px;
+	height: 225px;
+	display: inline-block;
+	margin-left: 15%;
+	margin-top: 29.8px;
+	margin-right: 29px;
+}
+.box2 {
+	background-color: #F2F2F2;
+	width: 570px;
+	height: 225px;
+	display: inline-block;
+	margin-top: 29.8px;
+	margin-right: 29px;
+}
+.box-title {
+	font-size: 22px;
+	color: #3D58A6;
+	margin: 11.1px 0 0 20.8px;
+}
+.box-image {
+	margin: 11.1px 0 0 38.8px;
+	display: inline-block;
+	vertical-align: top;
+}
+.box-text {
+	display: inline-block;
+	vertical-align: top;
+	font-size: 20px;
+	width: 355px;
+	height: 144px;
+	margin: 17px 0 0 61px;
+}
+.fb {
+	margin: 68px 0 0 15%;
+	display: inline-block;
+}
+.footer-div {
+	width: 1px;
+	height: 27px;
+	background-color: #3D58A6;
+	margin:68px 0 0 35px;
+	display: inline-block;
+}
+.ytb {
+	margin: 68px 0 0 30px;
+	display: inline-block;
+}
