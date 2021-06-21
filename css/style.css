@@ -26,6 +26,7 @@
 .title-box {
 	font-size: 24px;
 	margin: 117.6px 0 0 15%;
+	font-family: 'Viaoda Libre', cursive;
 
 }
 .boxes {
@@ -52,6 +53,7 @@
 	font-size: 22px;
 	color: #3D58A6;
 	margin: 11.1px 0 0 20.8px;
+	font-family: 'Viaoda Libre', cursive;
 }
 .box-image {
 	margin: 11.1px 0 0 38.8px;
@@ -65,6 +67,7 @@
 	width: 355px;
 	height: 144px;
 	margin: 17px 0 0 61px;
+	 font-family: 'Stint Ultra Condensed';
 }
 .fb {
 	margin: 68px 0 0 15%;
@@ -89,6 +92,7 @@
 	color: white;
 	padding: 7px 10px;
 	margin: 40px 0 0 10%;
+	font-family: "BPG Nino Mtavruli", sans-serif;
 }
 .month {
 	color: #3D58A6;

@@ -7,3 +7,15 @@
          url('../fonts/alk-rounded-mtav-med-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
          url('../fonts/alk-rounded-mtav-med-webfont.svg#alk_rounded_mtav_medregular') format('svg'); /* Legacy iOS */
 }
+@font-face {
+    font-family: 'Stint Ultra Condensed';
+    src: url('../fonts/StintUltraCondensed-Regular.eot');
+    src: url('../fonts/StintUltraCondensed-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/StintUltraCondensed-Regular.woff2') format('woff2'),
+        url('../fonts/StintUltraCondensed-Regular.woff') format('woff'),
+        url('../fonts/StintUltraCondensed-Regular.svg#StintUltraCondensed-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
