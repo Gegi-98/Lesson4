@@ -21,11 +21,11 @@
 	color: #EE4036;
 }
 .banner {
-	margin: 76.9px 0 0 15%;
+	margin: 76.9px 0 0 98px ;
 }
 .title-box {
 	font-size: 24px;
-	margin: 117.6px 0 0 15%;
+	margin: 117.6px 0 0 98px;
 	font-family: 'Viaoda Libre', cursive;
 
 }
@@ -37,7 +37,7 @@
 	width: 570px;
 	height: 225px;
 	display: inline-block;
-	margin-left: 15%;
+	margin-left: 98px;
 	margin-top: 29.8px;
 	margin-right: 29px;
 }
@@ -70,7 +70,7 @@
 	 font-family: 'Stint Ultra Condensed';
 }
 .fb {
-	margin: 68px 0 0 15%;
+	margin: 68px 0 0 98px;
 	display: inline-block;
 }
 .footer-div {
